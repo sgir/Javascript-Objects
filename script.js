@@ -6,7 +6,7 @@ var cat = {
 };
 
 cat.age = 3;
-cat.speak = fuction(){
+cat.speak = function(){
     console.log("Meoww")
 }
 
